@@ -1,0 +1,113 @@
+@font-face {
+        font-family:nos ;
+        src: url(FONTS/Whitney-Semibold.ttf);
+}
+
+.main{
+        margin-top: 100px;
+        margin-left: 80px;
+        margin-right: 80px;
+}
+.row{
+        height: 600px;
+}
+#bord1{
+        border-radius: 20px 0 0 20px;
+        background-color:rgba(206,18,18,0.7); 
+}
+#bord2{
+        border-radius: 0 20px 20px 0;
+}
+body{
+        background-image: url("backg3.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.line2a{
+        font-family: nos;
+        font-weight: bolder;
+        color: white;
+        font-size: 15px;
+        padding-left: 36px;
+}
+.line2b{
+        font-family: nos;
+        font-weight: bolder;
+        color: white;
+        font-size: 15px;
+        padding-left: 60px;
+}
+.line1{
+        font-family: nos;
+        font-weight:bolder;
+        color: white;
+        font-size: 40px;
+        padding-left: 30px;
+        margin-top: 70px;
+}
+.submit{
+        background-color:rgba(206,18,18,0.7); 
+        border-radius: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+        color: white;
+        border-color: white;
+        margin-left: 80px;
+        font-family: nos;
+}
+.line3a{
+        font-family: nos;
+        font-weight:bolder;
+        color: rgba(206,18,18,0.7); ;
+        font-size: 50px;
+        padding-left: 370px;
+        padding-top: 20px;
+}
+.logo1{
+        height: 63px;
+        width: 63px;
+        margin-left: 430px;
+        cursor: pointer;
+}
+.logo2{
+        height: 45px;
+        width: 45px;
+        cursor: pointer;
+}
+.logo3{
+        height: 60px;
+        width: 60px;
+        cursor: pointer;
+}
+.line3b{
+        padding-top: 20px;
+        color: #696969;
+        font-weight: bold;
+        padding-left: 400px;
+}
+.inpt{
+        border-radius: 5px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        border-color: transparent;
+        width: 500px;
+        height: 50px;
+        margin-left: 270px;
+        padding-left: 20px;
+        background-color: #F4F8F7;
+}
+.sbmt{
+        margin-top: 40px;
+        margin-left: 450px;
+        background-color:rgba(206,18,18,0.7); 
+        border-radius: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 60px;
+        padding-right: 60px;
+        color: white;
+        border-color: transparent;
+        font-family: nos;
+}

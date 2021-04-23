@@ -1,0 +1,55 @@
+@font-face {
+        font-family:nos ;
+        src: url(FONTS/Whitney-Semibold.ttf);
+}
+
+body{
+        background-image: url("backg3.jpg");
+}
+
+
+.block1{
+        height: 250px;
+        width: 550px;
+        background-color: #C40000;
+        margin-top: 100px;
+        margin-left: 500px;
+        border-radius: 10px 10px 0 0;
+}
+.block2{
+        height: 350px;
+        width: 550px;
+        background-color:white;
+        margin-left: 500px;
+        border-radius: 0 0 10px 10px ;
+        font-family: nos;
+        font-size: 30px;
+        color: #808080;
+        box-shadow: 0 8px 10px -6px #C40000;
+}
+.tick{
+        font-family: nos;
+        height: 200px;
+        width: 200px;
+        margin-left: 170px;
+        margin-top: 30px;
+}
+button{
+        border-radius: 50px;
+        border-color: transparent;
+        background-color:#C40000;
+        padding: 20px 60px;
+        margin-left: 150px;
+        margin-top: 20px;
+        color: white;
+        font-size: 30px;
+        font-weight: bold;
+        cursor: pointer;
+}
+.line1a{
+        padding-top: 40px;
+        margin-left: 80px;
+}
+.line1b{
+        margin-left: 80px;
+}
